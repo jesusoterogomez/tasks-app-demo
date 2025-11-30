@@ -2,7 +2,7 @@ const { app, PORT } = require("./setup");
 
 /**
  * Array to hold tasks
- * We don't have a database, so these disappear when you restart the server
+ * We don't have a database, so data we add to this array disappears when we turn off the server
  *
  * There are a couple of tasks already added as examples.
  */
