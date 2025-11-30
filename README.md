@@ -31,7 +31,7 @@ However, some of these things will only make sense later in the hackyourfuture p
 
 ```sh
 # Step 1. Clone this repository from Github
-git clone https://github.com/jesusoterogomez/tasks-app-demo
+git clone https://github.com/jesusoterogomez/tasks-app-demo.git
 
 # Step 2. Change into the new directory
 cd tasks-app-demo
