@@ -49,4 +49,15 @@ npm start
 
 ### ✅ That's it
 
-You're free to try it out, and explore the code.
+You can view the application by going to the URL: http://127.0.0.1:4000 in your Web Browser, when the server is running.
+
+To close the server, press this key combination on your terminal:
+- 🪟 In Windows: Control + C
+- 🍎 In Mac: Command + C
+
+### Demo
+
+https://github.com/user-attachments/assets/86e4d2b8-2eb3-4352-b38f-5e043c194444
+
+
+
