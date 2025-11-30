@@ -1,4 +1,6 @@
-# ✅ HackYourFuture Web Architecture 101 - Our todo.com app
+# HackYourFuture Web Architecture 101
+
+## ✅ Our todo.com app
 
 During class, we designed a Tasks app together with a small frontend and backend.
 
@@ -17,6 +19,8 @@ Remember that this is using advanced javascript concepts we haven't explored yet
 
 I did my best to keep it as simple as possible and to add comments that explain what things are, but some of these things will make sense later in the hackyourfuture program.
 
+This means, some things will feel magical, but feel free to explore the code 🔎
+
 ‼️ Note: This is _not a part_ of the assignments, so just sharing it for your curiosity, and because I promised :)
 
 ### How to set up this small app
@@ -30,7 +34,7 @@ git clone https://github.com/jesusoterogomez/task-app-demo
 # Step 2. Change into the new directory
 cd tasks-app-demo
 
-# Step 3. Install the necessary software that we need to run this server
+# Step 3. Install the software that we need to run this server
 npm install
 ```
 
