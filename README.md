@@ -4,11 +4,11 @@
 
 During class, we designed a Tasks app together with a small frontend and backend.
 
+We were going to do a little bit of coding, but our TV ☠️ died during the session ☠️.
+
 Here are the diagrams we made: https://excalidraw.com/#json=iaQN0zV5TRivr6DS_3v3q,VELqsSWw4ZvecL0Uzj6l_A
 
-We were going to do a little bit of coding, but our TV died during the session ☠️.
-
-This Github Repository contains the code from the session.
+This Github Repository contains the code from the session:
 
 - The server code is `server.js`
 - The client app (web page) is in the `/client` directory.
@@ -17,9 +17,9 @@ This Github Repository contains the code from the session.
 
 Remember that this is using advanced javascript concepts we haven't explored yet.
 
-I did my best to keep it as simple as possible and to add comments that explain what things are, but some of these things will make sense later in the hackyourfuture program.
+I did my best to keep it as simple as possible and to add a lot of comments that explain what things are, but some of these things will only make sense later in the hackyourfuture program.
 
-This means, some things will feel magical, but feel free to explore the code 🔎
+This means, some things will feel magical, but feel free to explore the code or use your browsers Network panel to explore what is happening 🔎
 
 ‼️ Note: This is _not a part_ of the assignments, so just sharing it for your curiosity, and because I promised :)
 
@@ -29,7 +29,7 @@ This means, some things will feel magical, but feel free to explore the code �
 
 ```sh
 # Step 1. Clone this repository from Github
-git clone https://github.com/jesusoterogomez/task-app-demo
+git clone https://github.com/jesusoterogomez/tasks-app-demo
 
 # Step 2. Change into the new directory
 cd tasks-app-demo
@@ -40,7 +40,7 @@ npm install
 
 ### To run the app
 
-Run this in your terminal while in the `task-app-demo` directory :)
+Run this in your terminal while in the `tasks-app-demo` directory
 
 ```sh
 # Step 4. Starts the server in the URL http://127.0.0.1:4000
