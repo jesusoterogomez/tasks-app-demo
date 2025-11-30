@@ -59,7 +59,10 @@ To close the server, press this key combination on your terminal:
 
 ### Demo
 
-https://github.com/user-attachments/assets/86e4d2b8-2eb3-4352-b38f-5e043c194444
+https://github.com/user-attachments/assets/8ddcfb7d-e50c-41cb-8d0e-9005d7b09986
+
+
+
 
 
 
