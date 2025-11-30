@@ -23,7 +23,9 @@ However, some of these things will only make sense later in the hackyourfuture p
 
 🦄 This means, some things will feel magical, but feel free to explore the code or use your browser's Network panel to see what is happening with the HTTP requests and responses 🔎
 
-‼️ Note: This is **NOT a part** of your assignments, so just sharing it for your curiosity, (and because I promised ✨)
+‼️ **Note:** This is **NOT a part** of your assignments, so just sharing it for your curiosity, (and because I promised ✨)
+
+‼️ **Note 2:** If this code isn't working on your machine, that's totally fine. You can just read it on GitHub. That's enough for now :)
 
 ## 🎯 Instructions - How to set up this small app
 
