@@ -2,28 +2,30 @@
 
 ## ✅ Our todo.com app
 
-During class, we designed a Tasks app together with a small frontend and backend.
+During class, we designed a Tasks app together [(diagrams here)](https://excalidraw.com/#json=iaQN0zV5TRivr6DS_3v3q,VELqsSWw4ZvecL0Uzj6l_A) with a small frontend and backend.
 
 We were going to do a little bit of coding, but our TV ☠️ died during the session ☠️.
 
-Here are the diagrams we made: https://excalidraw.com/#json=iaQN0zV5TRivr6DS_3v3q,VELqsSWw4ZvecL0Uzj6l_A
-
-This Github Repository contains the code from the session:
+:octocat: This Github Repository contains the code from the session:
 
 - The server code is `server.js`
 - The client app (web page) is in the `/client` directory.
 
-### ⚠️ Disclaimer
+### ⚠️ Important ⚠️
 
 Remember that this is using advanced javascript concepts we haven't explored yet.
 
-I did my best to keep it as simple as possible and to add a lot of comments that explain what things are, but some of these things will only make sense later in the hackyourfuture program.
+I tried my best to:
+- to keep it as simple as possible
+- to add a lot of comments that explain what things are
 
-This means, some things will feel magical, but feel free to explore the code or use your browsers Network panel to explore what is happening 🔎
+However, some of these things will only make sense later in the hackyourfuture program.
 
-‼️ Note: This is _not a part_ of the assignments, so just sharing it for your curiosity, and because I promised :)
+🦄 This means, some things will feel magical, but feel free to explore the code or use your browser's Network panel to see what is happening with the HTTP requests and responses 🔎
 
-### How to set up this small app
+‼️ Note: This is **NOT a part** of your assignments, so just sharing it for your curiosity, (and because I promised ✨)
+
+## 🎯 Instructions - How to set up this small app
 
 #### In your terminal, run these commands (you only need to do this once):
 
